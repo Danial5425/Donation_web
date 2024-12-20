@@ -12,9 +12,7 @@ Donation_Web is a web application designed to facilitate donations of food, clot
 1. Clone this repository:
    ```bash
    git clone https://github.com/Danial5425/Donation_web.git
-2.Navigate to the project directory:
-  ```bash
-    cd Donation_Web
-3. Install the required dependencies:
+
+2. Install the required dependencies:
   ```bash
       npm start 
